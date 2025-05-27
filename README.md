@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 
 📍 Based in the Netherlands
 
-> 🛠️ Currently crafting cloud magic @RapidCircle 
+🛠️ Currently crafting cloud magic @RapidCircle 
+
 > ☁️ Always learning, always building.
 
 Let's connect! 💬  
